@@ -145,7 +145,7 @@
     "sanitize-html": "^2.6.1",
     "semver": "^7.3.7",
     "thread-loader": "^3.0.4",
-    "uuid": "^8.3.2",
+    "uuid": "^9.0.0",
     "workbox-webpack-plugin": "^5.1.4",
     "worker-loader": "^3.0.8"
   },
